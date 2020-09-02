@@ -34,7 +34,7 @@ public class TestAndagon {
 		andagonLogo.click();
 		wait.until(ExpectedConditions.elementToBeClickable(wDriver.findElement(By.xpath("//img[@class='header__logo']"))));
 		String currentUrl = wDriver.getCurrentUrl();
-		Assert.assertEquals("www.facebook.com", currentUrl);
+		Assert.assertEquals(sBaseUrl, currentUrl);
 		
 	}
 
