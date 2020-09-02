@@ -40,7 +40,7 @@ public class TestAndagon {
 
 	@After 
 	public void tearDown(){ 
-		wDriver.quit(); 
+		//wDriver.quit(); 
 	} 
 
 }
