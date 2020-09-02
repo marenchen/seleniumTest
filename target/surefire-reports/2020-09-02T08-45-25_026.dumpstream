@@ -1,0 +1,15 @@
+# Created at 2020-09-02T08:45:34.199
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-09-02T08:45:34.200
+WARNING: Illegal reflective access by org.openqa.selenium.os.ProcessUtils (file:/C:/Windows/Temp/surefire10027267260271254264/..%5C..%5Csystem32%5Cconfig%5Csystemprofile%5C.m2%5Crepository%5Corg%5Cseleniumhq%5Cselenium%5Cselenium-remote-driver%5C2.53.1%5Cselenium-remote-driver-2.53.1.jar) to field java.lang.ProcessImpl.handle
+
+# Created at 2020-09-02T08:45:34.200
+WARNING: Please consider reporting this to the maintainers of org.openqa.selenium.os.ProcessUtils
+
+# Created at 2020-09-02T08:45:34.201
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-09-02T08:45:34.201
+WARNING: All illegal access operations will be denied in a future release
+
